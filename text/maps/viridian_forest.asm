@@ -4,101 +4,100 @@ _ViridianForestText1::
 
 	para "They're out for"
 	line "#MON fights!"
+
+	para "They left me"
+	line "here because I"
+	cont "don't have my"
+	cont "#MON yet..."
 	done
 
 _ViridianForestBattleText1::
-	text "Hey! You have"
-	line "#MON! Come on!"
-	cont "Let's battle 'em!"
+	text "Hey, your #MON"
+	line "is cool! Let me"
+	cont "show you mine!"
 	done
 
 _ViridianForestEndBattleText1::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+	text "Great"
+	line "match!"
 	prompt
 
 _ViridianFrstAfterBattleText1::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+	text "Good thing I"
+	line "brought potions!"
+	cont "But I don't have"
+	cont "any revives..."
 	done
 
 _ViridianForestBattleText2::
-	text "Yo! You can't jam"
-	line "out if you're a"
-	cont "#MON trainer!"
+	text "This is an am-"
+	line "bush!"
 	done
 
 _ViridianForestEndBattleText2::
-	text "Huh?"
-	line "I ran out of"
-	cont "#MON!"
+	text "It"
+	line "didn't work."
 	prompt
 
 _ViridianFrstAfterBattleText2::
-	text "Darn! I'm going"
-	line "to catch some"
-	cont "stronger ones!"
+	text "It's surprisingly"
+	line "hard to ambush"
+	cont "people here."
 	done
 
 _ViridianForestBattleText3::
-	text "Hey, wait up!"
-	line "What's the hurry?"
+	text "Want to get to"
+	line "Pewter City?"
+	cont "You'll have to"
+	cont "go through me!"
 	done
 
 _ViridianForestEndBattleText3::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text "Go"
+	line "ahead."
 	prompt
 
 _ViridianFrstAfterBattleText3::
-	text "Sometimes, you"
-	line "can find stuff on"
-	cont "the ground!"
-
-	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	text "Trolling people"
+	line "that try to get"
+	cont "through here is"
+	cont "fun!"
 	done
 
 _ViridianForestBattleTextPikaGirl::
-	text "Hi, do you have a"
-	line "PIKACHU?"
+	text "Listen to my"
+	line "Jigglypuff sing!"
 	done
 
 _ViridianForestEndBattleTextPikaGirl::
-	text "Oh no,"
-	line "really?"
+	text "Oh no..."
 	prompt
 
 _ViridianForestAfterBattleTextPikaGirl::
-	text "I looked forever,"
-	line "but I never found"
-	cont "a PIKACHU here!"
+	text "Now I have to"
+	line "walk all the way"
+	cont "back to the"
+	cont "#MON center."
 	done
 
 _ViridianForestBattleTextSamurai::
 	text "I'm gonna be the"
-	line "best. You just"
-	cont "can't beat me!"
+	line "best. Like no one"
+	cont "ever was!"
 	done
 
 _ViridianForestEndBattleTextSamurai::
-	text "After"
-	line "all I did..."
+	text "Grr."
 	prompt
 
 _ViridianForestAfterBattleTextSamurai::
-	text "A METAPOD is cool"
-	line "because its"
-	cont "attack is its"
-	cont "defense!"
+	text "We'll train hard-"
+	line "er!"
 	done
 
 _ViridianForestText8::
-	text "I ran out of #"
-	line "BALLs to catch"
+	text "I ran out of po-"
+	line "tions to heal my"
 	cont "#MON with!"
 
 	para "You should carry"
@@ -109,9 +108,9 @@ _ViridianForestText9::
 	text "TRAINER TIPS"
 
 	para "If you want to"
-	line "avoid battles,"
-	cont "stay away from"
-	cont "grassy areas!"
+	line "avoid battles..."
+	cont "Then you're a"
+	cont "pussy!"
 	done
 
 _ViridianForestText10::
@@ -132,11 +131,8 @@ _ViridianForestText11::
 _ViridianForestText12::
 	text "TRAINER TIPS"
 
-	para "No stealing of"
-	line "#MON from"
-	cont "other trainers!"
-	cont "Catch only wild"
-	cont "#MON!"
+	para "The guy up ahead"
+	line "is pretty strong!"
 	done
 
 _ViridianForestText13::
