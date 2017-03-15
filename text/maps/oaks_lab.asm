@@ -22,7 +22,7 @@ _OaksLabText41::
 
 _OaksLabText39::
 	text "That's a #"
-	line "BALL. There's a"
+	line "ball. There's a"
 	cont "#MON inside!"
 	done
 
@@ -69,7 +69,7 @@ _OaksLabDeliverParcelText1::
 _OaksLabDeliverParcelText2::
 	text ""
 	para "Ah! This is the"
-	line "custom # BALL"
+	line "custom incubator"
 	cont "I ordered!"
 	cont "Thanks, <PLAYER>!"
 
@@ -230,14 +230,16 @@ _OaksLabRivalTakesText5::
 	done
 
 _OaksLabOakGivesText::
-	text "OAK: <PLAYER>, this"
-	line "is the #MON I"
-	cont "caught earlier."
+	text "OAK: <PLAYER>, that"
+	line "was a decoy ball,"
+	cont "I knew he was"
+	cont "going to do that."
+	cont "Brat."
 
-	para "You can have it."
-	line "I caught it in"
-	cont "the wild and it's"
-	cont "not tame yet."
+	para "Here is yours."
+	line "It just hatched"
+	cont "yesterday. Raise"
+	cont "it well."
 	prompt
 
 _OaksLabReceivedText::
@@ -264,8 +266,8 @@ _OaksLabRivalChallengeText::
 _OaksLabText_1d3be::
 	text "WHAT?"
 	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	cont "Gramps gave me a"
+	cont "weak #MON!"
 	prompt
 
 _OaksLabText_1d3c3::
@@ -293,7 +295,7 @@ _OaksLabPikachuDislikesPokeballsText2::
 
 	para "It's odd, but it"
 	line "appears that your"
-	cont "PIKACHU dislikes"
+	cont "#MON dislikes"
 	cont "# BALLs."
 
 	para "You should just"
@@ -301,10 +303,6 @@ _OaksLabPikachuDislikesPokeballsText2::
 
 	para "That should make"
 	line "it happy!"
-
-	para "You can talk to it"
-	line "and see how it"
-	cont "feels about you."
 	done
 
 _OaksLabText21::
@@ -335,10 +333,13 @@ _OaksLabText24::
 	para "It automatically"
 	line "records data on"
 	cont "#MON you've"
-	cont "seen or caught!"
+	cont "seen!"
 
 	para "It's a hi-tech"
 	line "encyclopedia!"
+	cont "It should help"
+	cont "you with your"
+	cont "travels."
 	done
 
 _OaksLabText25::
@@ -356,20 +357,25 @@ _OaksLabText26::
 	cont "world..."
 
 	para "That was my dream!"
+	line "And it has been"
+	cont "done. For a while"
+	cont "now."
 
-	para "But, I'm too old!"
-	line "I can't do it!"
+	para "Now I stay here"
+	line "in Pallet Town to"
+	cont "take care of and"
+	cont "hatch all these"
+	cont "eggs, so kids"
+	cont "like you can go"
+	cont "on adventures!"
 
 	para "So, I want you two"
-	line "to fulfill my"
-	cont "dream for me!"
+	line "to get out of my"
+	cont "lab and leave me"
+	cont "in peace!"
 
-	para "Get moving, you"
-	line "two!"
+	para "Get moving!"
 
-	para "This is a great"
-	line "undertaking in"
-	cont "#MON history!"
 	done
 
 _OaksLabText27::
@@ -377,9 +383,11 @@ _OaksLabText27::
 	line "Gramps! Leave it"
 	cont "all to me!"
 
-	para "<PLAYER>, I hate to"
-	line "say it, but I"
-	cont "don't need you!"
+	para "<PLAYER>, Eevee"
+	line "and I will be-"
+	cont "come so much"
+	cont "stronger than you"
+	cont "and your #MON!"
 
 	para "I know! I'll"
 	line "borrow a TOWN MAP"

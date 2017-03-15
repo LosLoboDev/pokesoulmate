@@ -2,7 +2,6 @@ _MomWakeUpText::
 	text "MOM: Right."
 	line "All boys leave"
 	cont "home someday."
-	cont "It said so on TV."
 
 	para "PROF.OAK, next"
 	line "door, is looking"
@@ -22,9 +21,8 @@ _MomHealText1::
 
 _MomHealText2::
 	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
+	line "Your #MON"
+	cont "is looking great!"
 	cont "Take care now!"
 	done
 
